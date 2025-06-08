@@ -1,0 +1,19 @@
+ILI9341 Pin,ESP32 Pin,Connection Type
+VCC,3.3V,Display
+GND,GND,Display
+CS,D17,Display
+RESET,D5,Display
+DC,D16,Display
+SDI (MOSI),D23,Display
+SCK,D18,Display
+LED,D32,Display
+SDO (MISO),D19,Display
+T_CLK,D18,Touch
+T_CS,D21,Touch
+T_DIN,D23,Touch
+T_DO,D19,Touch
+T_IRQ,Leave,Touch
+CS,D12,SD Card
+MOSI,D23,SD Card
+MISO,D19,SD Card
+SCK,D18,SD Card
